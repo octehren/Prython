@@ -38,8 +38,8 @@ def example_function():
 If you run this file, say, from the command line, a REPL interpreter will pop up at the context of the line calling `prython.pry()`, which means you will have access to variables `a` and `b` but not `c`, as the line wasn't ran when prython was called.
 
 ### TODO:
-- [] [Add stack trace printer](https://stackoverflow.com/questions/1156023/print-current-call-stack-from-a-method-in-code)
-- [] Drop Python 2 support
-- [] Tests
+- [ ] [Add stack trace printer](https://stackoverflow.com/questions/1156023/print-current-call-stack-from-a-method-in-code)
+- [ ] Drop Python 2 support
+- [ ] Tests
 
 
